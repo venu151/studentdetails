@@ -1,0 +1,7 @@
+C:\Users\vadde\source\repos\Displaystudentdeatails\Displaystudentdeatails\bin\Debug\Displaystudentdeatails.exe.config
+C:\Users\vadde\source\repos\Displaystudentdeatails\Displaystudentdeatails\bin\Debug\Displaystudentdeatails.exe
+C:\Users\vadde\source\repos\Displaystudentdeatails\Displaystudentdeatails\bin\Debug\Displaystudentdeatails.pdb
+C:\Users\vadde\source\repos\Displaystudentdeatails\Displaystudentdeatails\obj\Debug\Displaystudentdeatails.csproj.AssemblyReference.cache
+C:\Users\vadde\source\repos\Displaystudentdeatails\Displaystudentdeatails\obj\Debug\Displaystudentdeatails.csproj.CoreCompileInputs.cache
+C:\Users\vadde\source\repos\Displaystudentdeatails\Displaystudentdeatails\obj\Debug\Displaystudentdeatails.exe
+C:\Users\vadde\source\repos\Displaystudentdeatails\Displaystudentdeatails\obj\Debug\Displaystudentdeatails.pdb

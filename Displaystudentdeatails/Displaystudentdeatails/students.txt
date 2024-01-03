@@ -1,0 +1,17 @@
+Name:    Emily Davis 
+College: SJCIT College
+Course:  ECE
+
+Name:    John Doe
+College: Ramayya University College
+Course:  CSE   
+
+Name:    Jane Smith
+College: JINTU University College
+Course:  EEE
+
+Name: Michael Johnson
+College: PES University College
+Course:  CIVIL
+
+
